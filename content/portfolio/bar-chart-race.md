@@ -6,5 +6,3 @@ showonlyimage: false
 title: Bar Chart Race
 weight: 1
 ---
-
-Gonna clean up old post and put it here

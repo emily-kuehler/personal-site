@@ -1,4 +1,4 @@
-#baseurl = "https://example.org/"
+baseurl = "https://confident-jang-64e125.netlify.com/"
 title = "Emily E. Kuehler"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"

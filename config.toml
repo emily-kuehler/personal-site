@@ -15,7 +15,7 @@ googleAnalytics = ""
   description = "Emily's Website"
   copyright = "&copy;2020 Emily Kuehler"
   sidebarAbout = [
-    "I am a data scientist who datas."
+    "Stanford trained data scientist, currently working in the Denver Broncos' analytics department."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

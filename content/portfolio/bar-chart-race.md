@@ -6,3 +6,6 @@ showonlyimage: false
 title: Bar Chart Race
 weight: 1
 ---
+
+![Alt Text](https://raw.githubusercontent.com/emily-kuehler/personal-site/master/public/img/barplot_race.gif)
+

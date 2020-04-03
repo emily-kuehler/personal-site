@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/portfolio/wnba-app/"
+  to = "https://emily-kuehler.shinyapps.io/wnba-shiny-app/"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
